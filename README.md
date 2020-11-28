@@ -1,8 +1,4 @@
-# MaLinotta-font-magisk
 
--id=font_MaLinotta
--name=Font "MaLinotta"
--version=v10
--versionCode=10
--author=einzbern411
--description=This module will 'systemlessly' replace your android system fonts with "MaLinotta" font family.
+# MaLinotta Font magisk module
+
+# this is very early stage of my font , sorry if i made mistake.
